@@ -41,7 +41,7 @@
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #070817;
-  --secondary-color:              #023a68;
+  --secondary-color:              #293f51;
   --section-bg-color:             #f0f8ff;
   --site-footer-bg-color:         #44525d;
   --custom-btn-bg-color:          #597081;
@@ -57,7 +57,7 @@
   --h3-font-size:                 32px;
   --h4-font-size:                 28px;
   --h5-font-size:                 24px;
-  --h6-font-size:                 22px;
+  --h6-font-size:                 20px;
   --p-font-size:                  16px;
   --btn-font-size:                18px;
   --copyright-font-size:          14px;
